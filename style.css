@@ -1,8 +1,12 @@
-.imagen{
-    display: block;
+.marco{
     margin: auto;
-    width: 75%;
     height: auto;
+    text-align: center;
+}
+
+.imagen{
+    width: 75%;
+    vertical-align: middle;
 }
 
 body{
