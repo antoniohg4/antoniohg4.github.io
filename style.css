@@ -1,7 +1,8 @@
 .imagen{
     display: block;
     margin: auto;
-    width: 1000px;
+    width: 75%;
+    height: auto;
 }
 
 body{
